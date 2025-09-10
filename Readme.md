@@ -1,4 +1,4 @@
-Link for the project demo video
+Link for the project demo video:
 https://drive.google.com/file/d/142KYNxjjUiDIZiGtDZMmKI8GYxzIUr0m/view?usp=drive_link .
 
 🧵 HandsMen Threads - Salesforce Project Elevating the Art of Sophistication in Men's Fashion
