@@ -20,3 +20,20 @@ Centralize and secure customer, order, and inventory data. Automate key workflow
 ⚙️ Technologies & Tools Used Technology Purpose Salesforce Lightning App Custom UI design Record-Triggered Flows Real-time process automation Apex Triggers Business logic for loyalty program Batch Apex Bulk record updates Validation Rules Maintain data integrity Scheduled Apex Run nightly sync processes
 
 📚 What I Learned Designing scalable data models in Salesforce Automating business logic using Flows and Apex Enforcing data quality with validations Writing asynchronous code using Batch and Scheduled Apex Building user interfaces with Lightning App Builder
+
+
+
+<img width="2136" height="1067" alt="Screenshot 2025-09-09 154359" src="https://github.com/user-attachments/assets/84d0e347-f647-46f5-8277-602b2e609b1f" />
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154409.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154418.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154426.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154438.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154449.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154504.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154516.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154526.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154533.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154538.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154656.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154707.png"
+"C:\Users\vasan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-09 154714.png"
